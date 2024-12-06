@@ -9,7 +9,7 @@ Welcome to the Stunning SaaS Landing Page project! This project is built with Re
 - [Technologies Used](#technologies-used)
 
 ## Demo
-Check out the live demo of the project [here](https://spirit.vercel.app/).
+Check out the live demo of the project [here](https://spiritsaas.vercel.app).
 
 ## Features
 - Responsive design
